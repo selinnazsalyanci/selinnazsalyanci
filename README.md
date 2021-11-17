@@ -1,8 +1,9 @@
 # I'm Selin Naz Salyancı!
 
-### :construction_worker: Currently Studying at Bahcesehir University.
-### :orange_book: Trying to learn HTML,CSS and Javascript.
-### 🙂 Trying to be Front-End-Developer.
+### :construction_worker: Currently Studying at Bahcesehir University 3/4.
+### :orange_book: Trying to learn Python and JavaScript.
+### 🙂 Currently good at : 
+### SQL, Java, HTML, Software Project Management...
 
 ![Selin's GitHub stats](https://github-readme-stats.vercel.app/api?username=selinnazsalyanci&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selinnazsalyanci&layout=compact)](https://github.com/selinnazsalyanci/github-readme-stats)
